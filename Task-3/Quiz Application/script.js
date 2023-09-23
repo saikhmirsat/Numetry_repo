@@ -1,7 +1,5 @@
 import questions from "./Questions.js";
 
-console.log(questions);
-
 let currentQuestionIndex = 0;
 let score = 0;
 let optionSelected = false;

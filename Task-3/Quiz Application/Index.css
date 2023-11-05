@@ -29,11 +29,9 @@ body {
 .hidden {
   display: none;
 }
-
 #result_container {
   margin-top: 20px;
 }
-
 #question_container {
   border: 1px solid grey;
   display: inline-block;
